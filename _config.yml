@@ -46,3 +46,11 @@ nav:
 
   - title: About
     url: /about
+
+# MathJax
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
